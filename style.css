@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(white,rgb(39, 181, 216));
+}
+img{
+    height: 380px;
+    width: 300px;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+
+input[type="submit"]{
+    height: 50px;
+    width: 100px;
+    background: black;
+    color: white;
+    margin-left: 200px;
+}
+
+div{
+    margin-left: 350px;
+}
